@@ -22,7 +22,7 @@ export const bridgeMetadata: BridgeDetailsDbResponse[] = [
     latitude: 47.571378458873,
     longitude: -122.35354958119821,
     staticimg: null,
-    liveimg: 'https://www.seattle.gov/trafficcams/images/11_SW_Spokane_NS.jpg',
+    liveimg: 'https://www.seattle.gov/trafficcams/images/11_SW_Spokane_2.jpg',
     externalapi_id: '6',
     apiprovider: 'sdot',
     bridge_type: 'Swing',
